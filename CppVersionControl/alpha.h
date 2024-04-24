@@ -1,6 +1,6 @@
 #pragma once
 #include <iostream>
-
+// adding new message here
 int main() {
-	std::cout << "get the pencile" << std::endl;
+	std::cout << "for main" << std::endl;
 }
