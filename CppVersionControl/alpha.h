@@ -1,6 +1,6 @@
 #pragma once
 #include <iostream>
-// adding new message here
+// adding new message for main
 int main() {
-	std::cout << "for main" << std::endl;
+	std::cout << "changing for main" << std::endl;
 }
