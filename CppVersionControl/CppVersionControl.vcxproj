@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="leather.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="alpha.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
