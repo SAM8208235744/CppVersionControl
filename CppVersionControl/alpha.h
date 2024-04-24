@@ -1,6 +1,6 @@
 #pragma once
 #include <iostream>
-// adding new message here
+// adding new message in feature
 int main() {
-	std::cout << "for main" << std::endl;
+	std::cout << "alpha change for feature" << std::endl;
 }
